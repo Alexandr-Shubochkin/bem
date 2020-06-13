@@ -1,0 +1,424 @@
+
+
+
+header {
+    background: url(../img/BG-Header.png) no-repeat center top / cover;
+    height: 1082px;
+    width: 100%;
+    color: #fff;
+    
+}
+
+body {
+   font-family: 'Lato Light' sans-serif ;
+    margin: 0;
+    padding: 0;
+    color: #8e8d8d;
+    font-size: 14px;
+
+}
+
+.container {
+    width: 1105px;
+    margin: 0 auto;
+
+}
+
+.logo {
+    margin: 0 auto;
+    padding-top: 164px;
+    
+    display: block;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 34px;
+    font-family: 'Lato Bold';
+    margin: 0;
+}
+
+.title {
+    
+    text-align: center;
+    margin-top: 160px;
+}
+
+h2 {
+    font-family: 'Lato Regular';
+    font-size: 26px;
+    font-weight: 300;
+    margin-top: 22px;
+    margin-bottom: 48px;
+}
+
+.bottom {
+  text-transform: uppercase;
+  text-align: center;
+  font-family: 'Lato Regular';
+  font-size: 16px;
+  width: 183px;
+  height: 45px;
+  border: #fff solid 1px;
+  margin: 0 auto;
+  margin-top: 230px;
+  
+}
+
+a {
+    text-decoration: none;
+    
+    }
+
+.bottom a {
+    margin-top: 15px;
+    display: block;
+    color: #fff;
+
+}
+
+.down {
+    display: block;
+    margin: auto;
+    margin-top: 76px;
+}
+
+.navigate {
+    
+    text-align: center;
+    line-height: 60px;
+   
+    
+
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-right: 50px;
+    font-family: 'Lato Regular';
+    font-size: 15px;
+        
+}
+
+li a {
+    color: #3c3c3c;
+}
+
+li a:hover {
+    color: #ada074;
+}
+
+nav {
+    height: 60px;
+    border-bottom: #f2f2f2 solid 2px;
+    margin-bottom: 130px;
+}
+
+ul {
+    margin: 0;
+}
+
+.titles {
+    text-transform: uppercase;
+    color: #000;
+    font-family: 'Lato Bold';
+    font-size: 34px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0px;
+}
+
+.about_p {
+    text-align: center;
+    line-height: 200%;
+    margin-top: 36px;
+}
+
+.about_main_item {
+    width: 280px;
+    float: left;
+}
+
+.about_main_item:last-child {
+    float: right;
+}
+
+.about_main_item:nth-child(2) {
+    margin-left: 30px;
+}
+
+.img_border {
+    
+    border: #f0f0f0 solid 2px;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+    text-align: center;
+    width: 92px;
+    height: 92px;
+    line-height: 115px;
+    
+}
+
+h4 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-family: 'Lato Regular';
+    color: #000;
+    font-weight: 300;
+    transform: scale(1.2,1.0);
+    margin: 40px;
+   
+}
+
+.about_main {
+    margin: 72px 100px 100px 100px;
+   
+}
+
+.about_main_item p {
+    margin: 0;
+    padding: 0;
+    line-height: 200%;
+    text-align: center;
+
+}
+
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+
+#portfolio {
+    background: #f3f3f3;
+}
+
+.portfolio_titles {
+
+    padding-top: 100px;
+    
+}
+
+.navigate_portfolio {
+    margin-top: 34px;
+    margin-bottom: 140px;
+}
+
+.boxes {
+    width: 542px;
+    height: 362px;
+    background: #eaeaea;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+ 
+#portfolio .bottom a {
+    color: #000;
+    
+    
+  }
+
+  #portfolio .bottom {
+    border: #000 solid 1px;
+    margin-top: 67px;
+    
+  }
+
+  #portfolio {
+      padding-bottom: 64px;
+  }
+
+  #our_partners {
+      background: url(../img/BG-Header\ copy.png) no-repeat center top / cover;
+
+      
+      width: 100%;
+  }
+
+#our_partners h3 
+{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 103px;
+    font-weight: 100;
+}
+
+.icon {
+    text-align: center;
+    margin-top: 94px;
+    padding-bottom: 103px;
+    
+}
+
+.icon img {
+    margin-right: 140px;
+}
+
+.icon img:last-child {
+    margin: 0;
+}
+
+.contact_titles {
+    padding-top: 184px;
+}
+
+form {
+    color: #000;
+    font-size: 14px;
+    font-family: 'Lato Bold';
+    text-transform: uppercase;
+    margin-top: 116px;
+    float: left;
+    width: 480px;
+    margin-left: 100px;
+    
+
+}
+
+input {
+    background: #f8f7f7;
+    border-top: #000 solid 1px;
+    width: 166px;
+    height: 33px;
+    margin-right: 60px;
+    margin-bottom: 76px;
+}
+
+textarea {
+    background: #f8f7f7;
+    border-top: #000 solid 1px;
+    width: 390px;
+    height: 120px;
+}
+
+.form_contact {
+    float: left;
+}
+
+.bottom_form {
+    border: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Lato Bold';
+    text-align: right;
+    margin-left: 230px;
+    margin-top: 44px;
+    background: #fff;
+}
+
+
+.contact_span {
+    float: right;
+    width: 280px;
+    margin-top: 116px;
+    text-align: left;
+    margin-right: 150px;
+}
+
+.contact_span p {
+   line-height: 180%;
+   color: #444;
+   
+}
+
+h5 {
+    text-align: left;
+    margin-top: 40px;
+    color: #000;
+    font-size: 14px;
+    font-family: 'Lato Bold';
+    margin-bottom: 26px;
+   
+}
+
+span {
+    color: #000;
+}
+
+.circle {
+    border: #1e1e1e solid 1px;
+    width: 28px;
+    height: 28px;
+    text-align: center;
+    line-height: 28px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 14px;
+}
+
+.icon_form {
+    margin-bottom: 15px;
+}
+
+footer {
+    background: #3c3c3c;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+.footer_ul a {
+    color: #a4a4a4;
+    font-family: 'Lato Regular';
+    font-size: 14px;
+    
+}
+
+.footer_ul li {
+    margin-right: 22px;
+    text-transform: none;
+}
+
+.footer_ul {
+    margin-top: 42px;
+    padding-bottom: 32px;
+}
+
+footer p {
+   font-family: 'Myriad Pro';
+   font-size: 14px;
+   color: #616161;
+   padding-bottom: 52px;
+   margin: 0;
+}
+
+
+
+
+
+
+
+@font-face {
+    font-family: 'Lato Bold';
+    font-weight: normal;
+    src: url(../fonts/lato-bold.ttf);
+}
+
+@font-face {
+    font-family: 'Lato Light';
+    font-weight: normal;
+    src: url(../fonts/Lato-Black.ttf);
+}
+
+@font-face {
+    font-family: 'Lato Regular';
+    font-weight: normal;
+    src: url(../fonts/ofon.ttf);
+}
+
+
+    
